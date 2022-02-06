@@ -1,2 +1,2 @@
 # CoonHUD
-Enjoy the CoonHUD!
+Enjoy the my HUD!
